@@ -1,0 +1,140 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b4ac0eae80e0b3cad7fa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "QXlsx",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-QXlsx-Debug-61a8652190f6568dcae8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "QXlsx",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Dyplom",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "QXlsx",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Dyplom::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dyplom-Debug-8e30cb10fede3305d92f.json",
+					"name" : "Dyplom",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Dyplom_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dyplom_autogen-Debug-cb86c9b9e67330782601.json",
+					"name" : "Dyplom_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Dyplom_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dyplom_autogen_timestamp_deps-Debug-68cda5bd24d7729cbd63.json",
+					"name" : "Dyplom_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QXlsx::@246fd2dd3a984c2618f9",
+					"jsonFile" : "target-QXlsx-Debug-76fb97a949538a9d2b0c.json",
+					"name" : "QXlsx",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QXlsx_autogen::@246fd2dd3a984c2618f9",
+					"jsonFile" : "target-QXlsx_autogen-Debug-19f75dea47a19237dcc3.json",
+					"name" : "QXlsx_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QXlsx_autogen_timestamp_deps::@246fd2dd3a984c2618f9",
+					"jsonFile" : "target-QXlsx_autogen_timestamp_deps-Debug-c0b90dc10747da364dce.json",
+					"name" : "QXlsx_autogen_timestamp_deps",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "G:/QtProject/Dyplom/build/Desktop_Qt_6_11_0_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430",
+		"source" : "G:/QtProject/Dyplom"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

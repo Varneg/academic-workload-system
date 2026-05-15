@@ -1,0 +1,625 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "G:/QtProject/Dyplom/build/Desktop_Qt_6_11_0_MinGW_64_bit-Release/QXlsx/QXlsx_autogen",
+	"CMAKE_BINARY_DIR" : "G:/QtProject/Dyplom/build/Desktop_Qt_6_11_0_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "G:/QtProject/Dyplom/build/Desktop_Qt_6_11_0_MinGW_64_bit-Release/QXlsx",
+	"CMAKE_CURRENT_SOURCE_DIR" : "G:/QtProject/Dyplom/QXlsx",
+	"CMAKE_EXECUTABLE" : "G:/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"G:/QtProject/Dyplom/QXlsx/CMakeLists.txt",
+		"G:/QtProject/Dyplom/build/Desktop_Qt_6_11_0_MinGW_64_bit-Release/.qtcreator/cmake-helper/qtcreator-project.cmake",
+		"G:/QtProject/Dyplom/build/Desktop_Qt_6_11_0_MinGW_64_bit-Release/.qtcreator/cmake-helper/package-manager.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakePackageConfigHelpers.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/WriteBasicConfigVersionFile.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargetsPrecheck.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargetsPrecheck.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreVersionlessAliasTargets.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersionImpl.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindVulkan.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageMessage.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindVulkan.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageMessage.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageMessage.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindVulkan.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageMessage.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindVulkan.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageMessage.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageMessage.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersion.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersionImpl.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfig.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsDependencies.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargetsPrecheck.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargetsPrecheck.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6GuiTargetsPrecheck.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6GuiPlugins.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6Gui/Qt6GuiVersionlessAliasTargets.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6Config.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicCMakeEarlyPolicyHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtInstallPaths.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6TargetsPrecheck.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtFeature.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckCXXCompilerFlag.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicAndroidHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicGitHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers_v2.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomAttributionHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomCommonGenerationHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomCpeHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomCycloneDXHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomDocumentNamespaceHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomDepHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomFileHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomGenerationHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomGenerationCycloneDXHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomLicenseHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomOpsHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomPurlHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomPythonHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomQtEntityHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomSystemDepHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicWindowsHelpers.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6Dependencies.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateConfigVersion.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateConfigVersionImpl.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateConfig.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateDependencies.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateConfigVersion.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateConfigVersionImpl.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateConfig.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateDependencies.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateTargetsPrecheck.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateTargets.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateAdditionalTargetInfo.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateVersionlessAliasTargets.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateTargetsPrecheck.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateTargets.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateAdditionalTargetInfo.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateVersionlessAliasTargets.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6Config.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicCMakeEarlyPolicyHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtInstallPaths.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6TargetsPrecheck.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtFeature.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckCXXCompilerFlag.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicAndroidHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicGitHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers_v2.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomAttributionHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomCommonGenerationHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomCpeHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomCycloneDXHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomDocumentNamespaceHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomDepHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomFileHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomGenerationHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomGenerationCycloneDXHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomLicenseHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomOpsHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomPurlHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomPythonHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomQtEntityHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicSbomSystemDepHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/QtPublicWindowsHelpers.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"G:/Qt/6.11.0/mingw_64/lib/cmake/Qt6/Qt6Dependencies.cmake",
+		"G:/QtProject/Dyplom/QXlsx/cmake/modules/qxlsx-config.cmake.in",
+		"G:/QtProject/Dyplom/QXlsx/cmake/modules/qxlsx-config-version.cmake.in",
+		"G:/QtProject/Dyplom/QXlsx/cmake/modules/CPackConfig.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CPack.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CPackComponent.cmake",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Templates/CPackConfig.cmake.in",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Templates/CPackConfig.cmake.in"
+	],
+	"CMAKE_SOURCE_DIR" : "G:/QtProject/Dyplom",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "G:/QtProject/Dyplom/build/Desktop_Qt_6_11_0_MinGW_64_bit-Release/QXlsx/QXlsx_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "QXlsx_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxabstractooxmlfile.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxabstractooxmlfile.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxabstractooxmlfile_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxabstractooxmlfile_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxabstractsheet.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxabstractsheet.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxabstractsheet_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxabstractsheet_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxcell.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcell.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxcell_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcell_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxcellformula.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcellformula.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxcellformula_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcellformula_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxcelllocation.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcelllocation.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxcellrange.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcellrange.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxcellreference.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcellreference.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxchart.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxchart.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxchart_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxchart_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxchartsheet.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxchartsheet.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxchartsheet_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxchartsheet_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxcolor_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcolor_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxconditionalformatting.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxconditionalformatting.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxconditionalformatting_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxconditionalformatting_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxcontenttypes_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxcontenttypes_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxdatavalidation.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdatavalidation.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxdatavalidation_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdatavalidation_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxdatetype.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdatetype.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxdocpropsapp_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdocpropsapp_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxdocpropscore_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdocpropscore_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxdocument.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdocument.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxdocument_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdocument_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxdrawing_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdrawing_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxdrawinganchor_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxdrawinganchor_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxformat.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxformat.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxformat_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxformat_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxglobal.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxglobal.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxmediafile_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxmediafile_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxnumformatparser_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxnumformatparser_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxreadsax.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxreadsax.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxrelationships_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxrelationships_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxrichstring.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxrichstring.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxrichstring_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxrichstring_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxsharedstrings_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxsharedstrings_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxsimpleooxmlfile_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxsimpleooxmlfile_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxstyles_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxstyles_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxtheme_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxtheme_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxutility_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxutility_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxworkbook.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxworkbook.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxworkbook_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxworkbook_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxworksheet.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxworksheet.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxworksheet_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxworksheet_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxzipreader_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxzipreader_p.cpp",
+			null
+		],
+		[
+			"G:/QtProject/Dyplom/QXlsx/header/xlsxzipwriter_p.h",
+			"MU",
+			"6OFTS6FJJP/moc_xlsxzipwriter_p.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "G:/QtProject/Dyplom/build/Desktop_Qt_6_11_0_MinGW_64_bit-Release/QXlsx/QXlsx_autogen/include",
+	"MOC_COMPILATION_FILE" : "G:/QtProject/Dyplom/build/Desktop_Qt_6_11_0_MinGW_64_bit-Release/QXlsx/QXlsx_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"MINGW_HAS_SECURE_API=1",
+		"QT_CORE_LIB",
+		"QT_DISABLE_DEPRECATED_BEFORE=0x060600",
+		"QT_GUI_LIB",
+		"QT_NO_CAST_FROM_ASCII",
+		"QT_NO_CAST_FROM_BYTEARRAY",
+		"QT_NO_CAST_TO_ASCII",
+		"QT_NO_DEBUG",
+		"QT_NO_KEYWORDS",
+		"QT_NO_SIGNALS_SLOTS_KEYWORDS",
+		"QT_NO_URL_CAST_FROM_STRING",
+		"QT_USE_FAST_OPERATOR_PLUS",
+		"QT_USE_QSTRINGBUILDER",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"G:/QtProject/Dyplom/build/Desktop_Qt_6_11_0_MinGW_64_bit-Release/QXlsx",
+		"G:/QtProject/Dyplom/QXlsx",
+		"G:/QtProject/Dyplom/QXlsx/header",
+		"G:/QtProject/Dyplom/QXlsx/header",
+		"G:/Qt/6.11.0/mingw_64/include/QtCore",
+		"G:/Qt/6.11.0/mingw_64/include",
+		"G:/Qt/6.11.0/mingw_64/mkspecs/win32-g++",
+		"G:/Qt/6.11.0/mingw_64/include/QtGui/6.11.0",
+		"G:/Qt/6.11.0/mingw_64/include/QtGui/6.11.0/QtGui",
+		"G:/Qt/6.11.0/mingw_64/include/QtCore/6.11.0",
+		"G:/Qt/6.11.0/mingw_64/include/QtCore/6.11.0/QtCore",
+		"G:/Qt/6.11.0/mingw_64/include/QtGui",
+		"G:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++",
+		"G:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32",
+		"G:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward",
+		"G:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include",
+		"G:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed",
+		"G:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"G:/Qt/Tools/mingw1310_64/bin/g++.exe",
+		"-std=gnu++17",
+		"-dM",
+		"-E",
+		"-c",
+		"G:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "G:/QtProject/Dyplom/build/Desktop_Qt_6_11_0_MinGW_64_bit-Release/QXlsx/QXlsx_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "G:/QtProject/Dyplom/build/Desktop_Qt_6_11_0_MinGW_64_bit-Release/QXlsx/CMakeFiles/QXlsx_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "G:/Qt/6.11.0/mingw_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "G:/Qt/6.11.0/mingw_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 11,
+	"SETTINGS_FILE" : "G:/QtProject/Dyplom/build/Desktop_Qt_6_11_0_MinGW_64_bit-Release/QXlsx/CMakeFiles/QXlsx_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"G:/QtProject/Dyplom/QXlsx/source/xlsxabstractooxmlfile.cpp",
+			"MU",
+			null
+		],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxabstractsheet.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxcell.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxcellformula.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxcelllocation.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxcellrange.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxcellreference.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxchart.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxchartsheet.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxcolor.cpp", "MU", null ],
+		[
+			"G:/QtProject/Dyplom/QXlsx/source/xlsxconditionalformatting.cpp",
+			"MU",
+			null
+		],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxcontenttypes.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxdatavalidation.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxdatetype.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxdocpropsapp.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxdocpropscore.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxdocument.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxdrawing.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxdrawinganchor.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxformat.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxmediafile.cpp", "MU", null ],
+		[
+			"G:/QtProject/Dyplom/QXlsx/source/xlsxnumformatparser.cpp",
+			"MU",
+			null
+		],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxreadsax.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxrelationships.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxrichstring.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxsharedstrings.cpp", "MU", null ],
+		[
+			"G:/QtProject/Dyplom/QXlsx/source/xlsxsimpleooxmlfile.cpp",
+			"MU",
+			null
+		],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxstyles.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxtheme.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxutility.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxworkbook.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxworksheet.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxzipreader.cpp", "MU", null ],
+		[ "G:/QtProject/Dyplom/QXlsx/source/xlsxzipwriter.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

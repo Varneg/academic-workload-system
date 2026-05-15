@@ -1,0 +1,3 @@
+G:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\Dyplom.dir/objects.a
+G:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\Dyplom.dir/objects.a @CMakeFiles\Dyplom.dir\objects1.rsp
+G:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\Dyplom.dir/objects.a -Wl,--no-whole-archive -o Dyplom.exe -Wl,--out-implib,libDyplom.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Dyplom.dir\linkLibs.rsp

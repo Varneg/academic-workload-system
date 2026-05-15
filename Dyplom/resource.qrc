@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/back-arrow.svg</file>
+        <file>img/cogwheel.svg</file>
+        <file>img/excel.svg</file>
+        <file>img/pencil.svg</file>
+        <file>img/plus.svg</file>
+        <file>img/search.svg</file>
+        <file>img/trashcan.svg</file>
+        <file>img/close.svg</file>
+    </qresource>
+    <qresource prefix="/cssStyle">
+        <file>style/butonStyle.qss</file>
+        <file>style/tableViewStyle.qss</file>
+        <file>style/tabWidgetStyle.qss</file>
+    </qresource>
+    <qresource prefix="/sqlRequest">
+        <file>sql/get_teacher_data.sql</file>
+        <file>sql/get_load_data.sql</file>
+        <file>sql/get_group_data.sql</file>
+        <file>sql/get_speciality_data.sql</file>
+        <file>sql/get_teacher_data_by_id.sql</file>
+    </qresource>
+    <qresource prefix="/template">
+        <file>excelTemplate/Форма 3.xlsx</file>
+    </qresource>
+</RCC>
